@@ -3,7 +3,7 @@
 chat-app-kafka
 
 ## Getting Started
-This is a Spring Boot based chat application that uses Apache Kafka to send and receive messages. It uses STOMP CLIENT to make connection with the browser.
+This is a Spring Boot based chat application that uses Apache Kafka to send and receive messages.
 
 ## Prerequisites
 1. Kafka-Zookeeper should be running on local machine.
@@ -11,7 +11,7 @@ This is a Spring Boot based chat application that uses Apache Kafka to send and 
 ### How to Run
 Import the application as a Maven project in IDE. Right click on DemoApplication.java and run it as a java application.
 
-### Open a chat window
+### how to start chatting
 1. Open a tab in a browser and paste http://localhost:8081/.
 2. Enter username and press and enter the chatroom.
 3. Open a new tab and paste http://localhost:8081/
